@@ -3,22 +3,66 @@
         {
             "name": "Sei Network",
             "logo": "https://pbs.twimg.com/profile_images/1525699660223942656/SryHMGDk_400x400.jpg",
-            "online": true
+            "online": true,
+            "twitter": "https://twitter.com/SeiNetwork",
+            "endpoint": {
+                "type": "tcp",
+                "host": "38.242.144.252",
+                "port": "12656"
+            }
         },
         {
             "name": "Forta Network",
             "logo": "https://pbs.twimg.com/profile_images/1507017087725703183/xvGLsTjU_400x400.jpg",
-            "online": true
+            "online": true,
+            "twitter": "https://twitter.com/FortaNetwork",
+            "endpoint": {
+                "type": "http",
+                "host": "https://api.forta.network/stats/sla/scanner/0x2d87B3ACFC1d00ba867Cb8886DFc7fBe8623D363"
+            }
         },
         {
             "name": "Stride",
             "logo": "https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png",
-            "online": true
+            "online": true,
+            "twitter": "https://twitter.com/stride_zone",
+            "endpoint": {
+                "type": "tcp",
+                "host": "38.242.144.252",
+                "port": "16656"
+            }
         },
         {
             "name": "Teritori",
             "logo": "https://pbs.twimg.com/profile_images/1545419250906660864/XfukKhac_400x400.jpg",
-            "online": true
+            "online": true,
+            "twitter": "https://twitter.com/TeritoriNetwork",
+            "endpoint": {
+                "type": "tcp",
+                "host": "38.242.144.252",
+                "port": "19656"
+            }
+        },
+        {
+            "name": "Bundlr",
+            "logo": "https://pbs.twimg.com/profile_images/1494718825023127554/Kv_3FJUi_400x400.jpg",
+            "online": true,
+            "twitter": "https://twitter.com/BundlrNetwork",
+            "endpoint": {
+                "type": "http",
+                "host": "http://38.242.130.237:80"
+            }
+        },
+        {
+            "name": "Massa Labs",
+            "logo": "https://pbs.twimg.com/profile_images/1513530462840492034/p0i_pJsR_400x400.jpg",
+            "online": true,
+            "twitter": "https://twitter.com/MassaLabs",
+            "endpoint": {
+                "type": "tcp",
+                "host": "38.242.246.129",
+                "port": "33035"
+            }
         }
     ],
     "portofolio": [

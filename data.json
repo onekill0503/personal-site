@@ -63,6 +63,16 @@
                 "host": "38.242.246.129",
                 "port": "33035"
             }
+        },
+        {
+            "name": "Sui Network",
+            "logo": "https://cdn.discordapp.com/icons/916379725201563759/a12fae6a3aaf16943e870290da485386.webp?size=96",
+            "online": true,
+            "twitter": "https://twitter.com/Mysten_Labs",
+            "endpoint": {
+                "type": "http",
+                "host": "http://38.242.144.252:9000/"
+            }
         }
     ],
     "portofolio": [

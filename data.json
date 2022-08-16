@@ -71,7 +71,11 @@
             "twitter": "https://twitter.com/Mysten_Labs",
             "endpoint": {
                 "type": "http",
-                "host": "http://38.242.144.252:9000/"
+                "host": "http://38.242.144.252:9000/",
+                "param": {
+                    "method": "POST",
+                    "data": {}
+                }
             }
         }
     ],
